@@ -8,7 +8,8 @@
 /*----------------------------------------------------------------------------*/
 
 #include "vex.h"
-
+#include "robot-config.h"
+#include "drivingfunctions.h"
 using namespace vex;
 
 // A global instance of competition
