@@ -1,0 +1,21 @@
+# ---------- VEXcode build output ----------
+build/
+*.bin
+*.elf
+*.o
+*.d
+*.map
+
+# ---------- VS Code (VEX extension) ----------
+# Ignore editor settings, but keep the VEX project config
+.vscode/*
+!.vscode/vex_project_settings.json
+
+# ---------- OS junk ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Misc ----------
+*.log
+*.tmp
