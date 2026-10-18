@@ -1,3 +1,4 @@
+#include "robot-config.h"
 #include "vex.h"
 #include "drivingfunctions.h"
 void tankDrive(){
